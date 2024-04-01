@@ -1,0 +1,6 @@
+assemblyai
+numpy 
+transformers==4.16.1
+torch==1.11.0
+nltk
+textblob
