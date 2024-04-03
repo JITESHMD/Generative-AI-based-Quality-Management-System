@@ -1,1 +1,5 @@
 # Generative-AI-based-Quality-Management-System![1](https://github.com/JITESHMD/Generative-AI-based-Quality-Management-System/assets/121152161/85170679-da04-4387-8f93-837301e59f11)
+![2](https://github.com/JITESHMD/Generative-AI-based-Quality-Management-System/assets/121152161/cb58312e-39ea-4609-a76f-01db24934c90)
+![3](https://github.com/JITESHMD/Generative-AI-based-Quality-Management-System/assets/121152161/89fe8963-1ed9-4b18-bde4-4c9e47e7604c)
+![4](https://github.com/JITESHMD/Generative-AI-based-Quality-Management-System/assets/121152161/67da2868-74f0-4dc9-bc39-f657629b366c)
+![5](https://github.com/JITESHMD/Generative-AI-based-Quality-Management-System/assets/121152161/e1dffdfe-1cce-4de7-a046-54fe4ad414cb)
