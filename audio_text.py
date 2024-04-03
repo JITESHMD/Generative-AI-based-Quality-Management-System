@@ -2,7 +2,7 @@ import os
 import assemblyai as aai
 
 # Replace with your API key
-aai.settings.api_key = "d744d9bb05f54507bc62c8aab8c668ec"
+aai.settings.api_key = "4e36f069d21d46c481552d56b7bbbf87"
 
 # Directory containing audio files
 CALL_DATA_DIR = "Call Data Sample"
